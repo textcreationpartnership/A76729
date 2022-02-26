@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands deliverance or, The great and bloody plot discovered, contrived against the kings majesty, the queen, the duke, and all the royal progeny, Parliament, and kingdom. VVith a list of all their names now in the Tower of London and other prisons, their wicked invention, with hand granadoes, to murder burn and slaughter which way they went, which far surpasseth the gunpowder treason, or Spanish invasion. Together. VVith the speedy tryal of Sir John Lenthal one of the Olivers kts now in the the Tower: and also of one Tench which made the engine to draw his late majesties head down to the block in case of refusal, who will ere long have his just reward for the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76729</idno>
+            <idno type="STC">Wing B2958</idno>
+            <idno type="STC">Thomason E1846_2</idno>
+            <idno type="STC">ESTC R209706</idno>
+            <idno type="EEBO-CITATION">99868573</idno>
+            <idno type="PROQUEST">99868573</idno>
+            <idno type="VID">170459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170459)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 230:E1846[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands deliverance or, The great and bloody plot discovered, contrived against the kings majesty, the queen, the duke, and all the royal progeny, Parliament, and kingdom. VVith a list of all their names now in the Tower of London and other prisons, their wicked invention, with hand granadoes, to murder burn and slaughter which way they went, which far surpasseth the gunpowder treason, or Spanish invasion. Together. VVith the speedy tryal of Sir John Lenthal one of the Olivers kts now in the the Tower: and also of one Tench which made the engine to draw his late majesties head down to the block in case of refusal, who will ere long have his just reward for the same.</title>
+               </titleStmt>
+               <extent>15, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Vere, and W. Gilbertson.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1661 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Thomason received his copy in December 1660. .</note>
+                  <note>Annotation on Thomason copy: "Decemb"; 1 in imprint date written over with a zero.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lenthall, John, --  Sir, 1625-1681 --  Early works to 1800.</term>
+               <term>Tench, Hannibal --  Early works to 1800.</term>
+               <term>Regicides --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170459:1" rendition="simple:additions"/>
+            <p>ENGLANDS DELIVERANCE <hi>OR,</hi> The Great and bloody Plot diſcovered, Contrived againſt the Kings Majeſty, the Queen, the Duke, and all the Royal Progeny, Parliament, and Kingdom.</p>
+            <p>VVith a Liſt of all their names now in the Tower of London and other Priſons, their wicked Invention, with hand Gra<g ref="char:EOLhyphen"/>nadoes, to murder burn, and ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugh<g ref="char:EOLhyphen"/>ter which way they went, which far ſurpaſſeth the Gunpowd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r-treaſon, or Spaniſh Invaſion.</p>
+            <p>
+               <hi>TOGETHER.</hi>
+VVith the ſpeedy Tryal of Sir <hi>John Len<g ref="char:EOLhyphen"/>thal</hi> one of <hi>Olivers</hi> Kts now in the Towers And alſo of one <hi>Tench</hi> which made the Engine to draw his late Maj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſties head down to the Block in caſe of refu<g ref="char:EOLhyphen"/>ſal, who will ere long have his juſt reward for the ſame.</p>
+            <p>Printed for <hi>T. Vere,</hi> and <hi>W. Gilbertſon.</hi> 1661</p>
+         </div>
+      </front>
+      <body>
+         <div type="historical_account">
+            <pb facs="tcp:170459:2"/>
+            <pb n="3" facs="tcp:170459:2"/>
+            <head>The great and bloody Plot Diſcovered againſt his Maje<g ref="char:EOLhyphen"/>ſty, the Queen, the Duke<g ref="char:punc">▪</g> and Roy<g ref="char:EOLhyphen"/>al Progeny, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">O</seg> England! ſtand amazed, and wonder, and ſée what baſe and notorious actions ſpring from thy bowels: even e<g ref="char:EOLhyphen"/>nough to give a Kingdom a vomit, but however leſt my pen ſhould ſlip, I here commit my mind in general unto you, and all which was private in Traytors hearts, now will be ſéen obvious to the Kingdom.</p>
+            <p>That upon the fifth of <hi>December</hi> laſt one thouſand ſix hundred and ſixty, were ſeve<g ref="char:EOLhyphen"/>ral
+<pb n="4" facs="tcp:170459:3"/>Traytors aſſembled together, as we have had the true Relation from thoſe whom have been concerned in the diſco<g ref="char:EOLhyphen"/>very.</p>
+            <p>Notwithſtanding the remarkable Exe<g ref="char:EOLhyphen"/>cution of many of their Ancient Competti<g ref="char:EOLhyphen"/>tors at <hi>Charing Croſs</hi> the thirtéenth of <hi>October 1660:</hi> theſe perſons whoſe names are here underneath ſubſcribed, have in a moſt G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and and H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrid Conſpiracy Acted, Compaſſed and Invented the Baſeſt, Bar<g ref="char:EOLhyphen"/>barous, and Notorious Plot <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ever mor<g ref="char:EOLhyphen"/>tals could contrive: or rather aſcri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it to the Séed of the Divel, having far ſurpaſſed the Gunpowder-treaſon.</p>
+            <p>The firſt who began this Horrid and Deteſtable Plot was one Major <hi>White,</hi> formerly an Officer under <hi>Lamb<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt</hi> and Major General <hi>Overcon,</hi> under the ſame Command, and once Governor of <hi>Hull,</hi> but a notorious Traytor both to King and Kingdom, with thirty eight more of that curſed Gang, <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>Francis Elſtone.</item>
+               <item>John Hargraſs.</item>
+               <item>El. Hunt.</item>
+               <item>Gabaiel Hopkins.</item>
+               <item>Wil. Kirk.</item>
+               <item>Francis Booth.</item>
+               <item>C. Bagſter.</item>
+               <item>C. Babington.</item>
+               <item>
+                  <pb n="5" facs="tcp:170459:3"/>
+Wil. Wright.</item>
+               <item>Anthony Barnſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w.</item>
+               <item>Thomas Millard</item>
+               <item>Tobias Hill.</item>
+               <item>Rich. Dillings.</item>
+               <item>Peter Thompſon.</item>
+               <item>Tho. Simcock.</item>
+               <item>Frederick Barnwel.</item>
+               <item>Rich. Daniel.</item>
+               <item>Rich. Shoopel.</item>
+               <item>Iohn Lucan.</item>
+               <item>Wil. Howard.</item>
+               <item>Tho. Nicols.</item>
+               <item>Henry Limpick.</item>
+               <item>Francis Gavel.</item>
+               <item>Tobias Hill.</item>
+               <item>Iames E<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>field</item>
+               <item>Ieffery Hookings.</item>
+               <item>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. Iepp.</item>
+               <item>I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aac B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nton.</item>
+               <item>Rich Young.</item>
+               <item>Iohn Steward.</item>
+               <item>Iohn Ward.</item>
+               <item>Tho. Butler.</item>
+               <item>Rich. Glover.</item>
+               <item>George Thomas.</item>
+               <item>Iam. Sanford.</item>
+               <item>Robert Harker.</item>
+               <item>Rich. Burt.</item>
+               <item>Iohn Decks.</item>
+               <item>Owen Davis.</item>
+            </list>
+            <p>Theſe with many more, did Compaſs and Contrive firſt to begin with fire upon the Kings Stables then after to jump vi<g ref="char:EOLhyphen"/>olently upon <hi>white hall</hi> on purpoſe to mur<g ref="char:EOLhyphen"/>der his Majeſty and all the Dukes, with the R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yal Progeny: To break upon the Foundations of <hi>England,</hi> and make Law lawleſs, ſo to Raign like Wolves among a flock of Shaep, and glut themſelves with the ruines of a Nation.</p>
+            <p>
+               <pb n="6" facs="tcp:170459:4"/>
+For which they had ſeduced and inticed ſeveral numbers of the late Disbanded Souldiers, who having neither houſe nor home to go to were eaſily incombred a<g ref="char:EOLhyphen"/>mongſt theſe Barbarous Traytors, which being acted the fifth of <hi>December</hi> kept them<g ref="char:EOLhyphen"/>ſelves private both in <hi>London</hi> and the near adjacent places, eſpecially in <hi>Holburn</hi> near the Filds <hi>Covent Garden,</hi> and innume<g ref="char:EOLhyphen"/>rable back Allies having provided Hand-Granadoes, and many other baſe and inhu<g ref="char:EOLhyphen"/>mane Inſtruments to kill, burn, and ſlaugh<g ref="char:EOLhyphen"/>ter which way they went, like cruel Ty<g ref="char:EOLhyphen"/>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, and mercileſs Tyrants, whoſe bow<g ref="char:EOLhyphen"/>els entertained not the leaſt drop of com<g ref="char:EOLhyphen"/>paſſion, but rather like Bores to ſurfet themſelves with blood of Innocents and harmeleſs people.</p>
+            <p>So barbarous and unnatural were theſe bloody Tray<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors, in their horrid and dete<g ref="char:EOLhyphen"/>ſtable deſig<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, that even ſurpaſſeth the Spaniſh Invaſion, or the Gunpowder-treaſon.</p>
+            <p>And the thirtéenth of <hi>December</hi> was de<g ref="char:EOLhyphen"/>t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmined the da<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or night for the Executi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of their Bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chery<g ref="char:punc">▪</g> and Maſſacre; But th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough the Providence of the Almighty, like the Gunpowder-treaſon before that the
+<pb n="7" facs="tcp:170459:4"/>match took fire, it was diſcovered and pub<g ref="char:EOLhyphen"/>lickly divulged by a ſtrange and une<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pected accident.</p>
+            <p>For this aforeſaid Major <hi>VVhite</hi> on the twelfth of <hi>December</hi> met with a Porter which formerly had béen a Souldier of his, in whom he repoſed a great deal of confi<g ref="char:EOLhyphen"/>dence, whereof he immediately told him, that if he would go along with him to his Lodging where he lay, which was then in <hi>Horburn,</hi> he had ſome things to relate to him, which accordingly agréed, and toge<g ref="char:EOLhyphen"/>ther they went; being come to his Cham<g ref="char:EOLhyphen"/>ber, he told him that he had ſome neceſſary occaſions for him, in which he was able to perform, and that he ſhould receive a great Reward if he would be vigilant and kéep his counſel.</p>
+            <p>
+               <hi>The Porter in much duty promiſed him he would.</hi>
+            </p>
+            <p>Whereupon this Major <hi>White</hi> related in this manner.</p>
+            <p>
+               <q>
+                  <hi>
+                     <hi>My friend.</hi> I have very many weighty matters, and things of concernm<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt where<g ref="char:EOLhyphen"/>in you muſt be careful and dilligent, and before Chriſtmas day I will make a m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n of thee: For we are a confiderable number of friends in town, whereby we muſt daily
+<pb n="8" facs="tcp:170459:5"/>have r<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>courfe one to another, for we do intend the thirteenth of this moneth to aſ<g ref="char:EOLhyphen"/>ſemble our ſelves together, being well provided with Arms, and to ſeize upon the Muſe, and on all the Kings H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſes, then to ſet fire on <hi>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> and murder, and deſtroy the King and all his N<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bility, to cut off Root and Branch, and make a Mutenie in the City, which being done, we ſhall have help enough, ſo raiſe up our ſelves to our former condition, and heartily revive up the good old Cauſe; he then immediately drew up a Scroll of parchment wherein was a Liſt of all the names of the grand Traytors, and chiefe Actors in this horrid and notorious trea<g ref="char:EOLhyphen"/>ſon: then he gave him ſome papers to carry unto <hi>Overton,</hi> and many others of the traytors Lodgings.</hi>
+               </q>
+            </p>
+            <p>Now when the Porter had béen at ſeve<g ref="char:EOLhyphen"/>ral of theſe Traytors Lodgings, and ſéen many of them face to face, he preſently poſts to <hi>White Hall</hi> and there acquainted his Grace the Duke of <hi>Abermarle</hi> in full Relation of all the ſtory in general, who immediately prefer'd it to the Councel who could no leſs wonder and ſtand amazed to hear the hainouſneſs of theſe Notorious
+<pb n="9" facs="tcp:170459:5"/>bloody Traytor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; who preſently drew up a W<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrant, and ſent the Life-Guard, and on the <hi>15th</hi> of <hi>December,</hi> the very night before their wicked Conſpiracy was to be effected th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> chief of them were apprehen<g ref="char:EOLhyphen"/>ded, and the reſt diſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſed, in a moment of time.</p>
+            <p>The names of theſe notorious traytors you have had mentioned before in a Liſt, but here is another grand traytor, the Ma<g ref="char:EOLhyphen"/>jor General <hi>Ludlow</hi> who made his nar<g ref="char:EOLhyphen"/>row eſcape from his Lodging in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> out of his bed, the ſhéets being warm when the Guard came in for to ſearch for him.</p>
+            <p>Collonel <hi>Okey</hi> a nother grand traytor by Proclamation, made his eſcape from his Lodging in <hi>Covent-Garden,</hi> and all the reſt of the Traytors that were excluded out of the Act of Indemnity were concern<g ref="char:EOLhyphen"/>ed in this wicked and bloody deſign, and ſuppoſed to be in town.</p>
+            <p>Whereupon, the Lord Mayor for the ſureſt apprehending of them, hath ſecured all the Inns and Stables within the City of <hi>London,</hi> hearing a relatirn that fiftéen dundred of Disbanded Troopers lyes up and down about the City, and every man
+<pb n="10" facs="tcp:170459:6"/>compleatly Arm'd: Something of which was ſpecified in Major <hi>Whites</hi> Confeſſion being examined before his Grace the Duke of <hi>Abermacle,</hi> who requeſted him to diſco<g ref="char:EOLhyphen"/>ver the reſt of the Traytors,</p>
+            <p>
+               <hi>Who anſwered, that if his Grace would ſue out his pardon, he would reveale the whole deſign in general, and give him a liſt of all their names.</hi>
+            </p>
+            <p>Whereupon immediately his life was granted, then forth with he confeſſed, that they were in number fixed for their Deſign five hundred Horſe, and as many Foot, whereof <hi>Ludlow, Oakie, Overton;</hi> and him<g ref="char:EOLhyphen"/>ſelf were to have béen prime Commanders and the fiftéenth of <hi>December</hi> at midnight they were to execute their barbarous inten<g ref="char:EOLhyphen"/>tion, thinking to increaſe both in ſtrength and number. having ſo fitt an opportunity now at the Disbanding of the Army, and that many of the Sectary Phanaticks that are in <hi>London</hi> were ready to acquieſſe in this Deſign with them, and would ſurniſh them with Arms of an hours warning.</p>
+            <p>So when he had ended his Confeſſion, he was then immediately conveyed unto the Tower, but he had his life granted him upon his Diſcovery, which was a
+<pb n="11" facs="tcp:170459:6"/>great deal more then the Porter could de<g ref="char:EOLhyphen"/>clare.</p>
+            <p>Collonel <hi>Overton</hi> was ſecured by the Conſtable and his Watch, with ſome few more of the Life Guard; he lay at one Mr. <hi>Phelps</hi> in Leg. Alley néer <hi>New-ſtreet,</hi> this <hi>Phelps</hi> was one of the Clerks to the pretended High Court of Iuſtice, and one <hi>Broughton</hi> his fellow Clerk, both in the houſe with <hi>Overton,</hi> but not in the ſame Chamber,</p>
+            <p>They denyed the opening of the Door to the Conſtable, ſo that by force of Armes they were forced to break open the Doores before they could get to <hi>Overton,</hi> when that they came up one of the Life Guard with a Piſtol to his breaſt, asked him if he was <hi>Overton,</hi>
+            </p>
+            <p>
+               <hi>VVho anſwered,</hi> 
+               <q>
+                  <hi>yes.</hi>
+               </q>
+            </p>
+            <p>Then ſaid he, <q>I apprehend you in the Ki<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs name.</q>
+            </p>
+            <p>
+               <hi>Then Sir, ſaid Overton,</hi> 
+               <q>
+                  <hi>I am your pri<g ref="char:EOLhyphen"/>ſoner.</hi>
+               </q>
+            </p>
+            <p>So forthwith they carried him a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, and kep<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him on the Guard all night at <hi>White-Hall,</hi> and being examined on the morrow, h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> con<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt not any thing to the purpoſe, ſo at ſix clock at night he was brought in a
+<pb n="12" facs="tcp:170459:7"/>Coach ſtrongly guarded unto the Tower of <hi>London,</hi> Boyes running about the Coach, and people in whole multitudes with great Acclamation, crying <q>hang him hang him</q> all the way he went.</p>
+            <p>The ſame day there were ſeveral others brought to <hi>Newgate,</hi> who no ſooner had en<g ref="char:EOLhyphen"/>tred the Priſon, but they began to rebuke and revile one another with lewd and per<g ref="char:EOLhyphen"/>emptory language for being ſeduced into ſo great an Error.</p>
+            <p>Many more were the ſame day taken and brought to the <hi>Gate-houſe</hi> at <hi>VVeſt<g ref="char:EOLhyphen"/>minſter.</hi>
+            </p>
+            <p>It is a great ſuſpition that ſome Diſ<g ref="char:EOLhyphen"/>banded Souldiers was linked in this Con<g ref="char:EOLhyphen"/>ſpiracy, yet ſome take it to be an aſperti<g ref="char:EOLhyphen"/>on caſt on them.</p>
+            <p>Nevertheleſs, his Majeſty hath intended a Proclamation to this purpoſe.</p>
+            <p>
+               <q>
+                  <hi>That all Disbanded Souldiers ſhall depart the City twenty miles diſtant, and not to ſtay within the Preſincts of London at their peril, except they can ſhew ſome good ſufficient reaſon, which may be juſti<g ref="char:EOLhyphen"/>fiable for their reſidence.</hi>
+               </q>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:170459:7"/>
+Now theſe Priſons being ſufficiently fortifyed with Grand and Notorious bloo<g ref="char:EOLhyphen"/>dy Traytors the <hi>Tower, Newgate,</hi> and the <hi>Gate-houſe,</hi> there let us leave them till the Seſſions, and then bequeath them into the hands of Eſquire <hi>Dun</hi> the Hang<g ref="char:EOLhyphen"/>man, who can better ſatisfie them then the ruines of a Kingdom.</p>
+            <p>We have done already with the Tra<g ref="char:EOLhyphen"/>tors of <hi>October,</hi> now ſo much of this for the Trators of <hi>December.</hi>
+            </p>
+         </div>
+         <div type="historical_account">
+            <pb n="14" facs="tcp:170459:8"/>
+            <p>One thing more here I have, which is a remarkable piece to be noted, that is, the carriage and behaviour of one of <hi>Olivers</hi> late Knights, by name Sir <hi>John Lenthal,</hi> ſon to the Grand Dée, Speak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to the Rump, that is, not only to br<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ak his Al<g ref="char:EOLhyphen"/>legiance, and prove Traytor to his Maje<g ref="char:EOLhyphen"/>ſty, and ſlander the Kingdom with lewd and profane carriage, but néeds he muſt Countarfeit the Broad Seal of <hi>England,</hi> and imitates the Office of High Chanſe<g ref="char:EOLhyphen"/>lor beſides, ſo to contrive and make up his piece of pollicy, he ſends for a Tobacco-Pipe ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, promiſing h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m a great Re<g ref="char:EOLhyphen"/>ward if he would draw the Reſemblance of the Kings Great Seal in a piece of Clay, thinking the fellow had hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſecond <hi>Shemei</hi> but he proved after a ſecond <hi>Mordecai,</hi> wherein he diſcovered the baſeneſs of his mind, that <hi>Olivers</hi> Knight was ſoon ap<g ref="char:EOLhyphen"/>prehended, and very gently brought to the Tower, where there he remains for his ſpéedy tryal.</p>
+            <p>But we muſt not for get the grand inge<g ref="char:EOLhyphen"/>nuity and crafty workman-ſhip of the <hi>Ha<g ref="char:EOLhyphen"/>nibal
+<pb n="15" facs="tcp:170459:8"/>Teanch</hi> who was pregnant in ſuch a trade that never before was uſed in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> being one of <hi>Peters</hi> Congregation, and followed his Text, <hi>To bind his King in Chains of Iron:</hi> But <hi>Dun</hi> will not be at ſuch a charge for <hi>Teanch</hi> ſhall be bound in a Hempen Rope, but as for the preſen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he remains in the Gatehouſe, for the Fel<g ref="char:EOLhyphen"/>lons in <hi>Newgate</hi> ſcor us to be troubled with ſuch a treacherous and dirty companion.</p>
+            <epigraph>
+               <q>
+                  <l>October is gone,</l>
+                  <l>December is come,</l>
+                  <l>And brought more work for Eſquire Dun.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:170459:9"/>
+            <p>
+               <figure>
+                  <figDesc>a man, possibly the executioner</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
